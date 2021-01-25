@@ -41,7 +41,7 @@ function App() {
         </div>
       </div>
     </main>
-    <footer className="row center">All right man reserved</footer>
+    <footer className="row center">All right mans reserved</footer>
   </div>
     
   );
